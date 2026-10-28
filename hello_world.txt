@@ -1,1 +1,3 @@
-    Some text to not feel lonely
+    Some text to not feel lonely. 
+
+    Project will continue soon.
